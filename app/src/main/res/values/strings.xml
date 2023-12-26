@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_user_name">Search Username GitHub</string>
+    <string name="email_not_available">Tidak Tersedia</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="this_activity">hallo semua</string>
+    <string name="full_names">A Rizki Awan</string>
+    <string name="detail">Detail</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+</resources>
